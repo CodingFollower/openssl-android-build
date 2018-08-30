@@ -29,3 +29,8 @@ Command
         cp libcrypto.a libssl.a ../build/libs
         mkdir -p ../build/include/openssl
         cp include/openssl/*.* ../build/include/openssl
+
+See Also
+---
+* [Android OpenSSL Wiki](https://wiki.openssl.org/index.php/Android)
+* [Cross-compilation using Clang](https://clang.llvm.org/docs/CrossCompilation.html)
